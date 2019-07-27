@@ -16,6 +16,10 @@
 
   
 
+  ![아아...](./pic/zuul_1.png)
+
+  *"아아.... 속 편해라.." : 내가 할일을 다 처리해주는 속시원한 API GATEWAY*
+
   
 
   여담으로 API GATEWAY는 ESB (Enterprise Service Bus)를 계승하였다. 마치 MSA가 SOA(Service Oriented Architecture | 서비스 지향 아키텍처)를 계승한 것 마냥 ESB의 실패사례를 분석해서 만들어진 기능
@@ -70,6 +74,5 @@
 
 ![Netflix](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/200px-Netflix_2015_logo.svg.png)
 
-*"아! 넷플릭스 아시는구나!"*
-*드라마, 영화, 다큐멘터리, 오리지널 시리즈까지 다양한 컨텐츠를 제공하는 회사.*
+*"아! 넷플릭스 아시는구나!" : 드라마, 영화, 다큐멘터리, 오리지널 시리즈까지 다양한 컨텐츠를 제공하는 회사.*
 
