@@ -15,7 +15,7 @@
 
   
 
-  FRONT-END ><br/>*Routing rules : shard traffic with path* ><br/>*Zuul* ><br/>*Service discovery : instance lookup* ><br/>BACK-END REST API
+  FRONT-END --><br/> **_Routing rules : shard traffic with path --> Zuul --> Service discovery : instance lookup_** --><br/>BACK-END REST API
 
    
 
